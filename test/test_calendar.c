@@ -1,7 +1,7 @@
 #include <CUnit/Basic.h>
 #include <CUnit/CUnit.h>
 
-#include <cafeteria.h>
+#include <calendar.h>
 #define PROJECT_NAME "calendar"
 
 /* Prototypes for all the test functions */
